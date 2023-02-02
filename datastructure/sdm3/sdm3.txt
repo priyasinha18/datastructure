@@ -1,0 +1,2 @@
+this is the sdm module.
+sdm is the software devlopment methodology
